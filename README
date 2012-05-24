@@ -1,12 +1,6 @@
-The original supertreebase (http://github.com/rvosa/supertreebase) is (amongst other things) a dump 
-of essentially all phylogenetic trees in TreeBASE (treebase.org) in NeXML and other formats, provided 
-by Rutger Vos (http://github.com/rvosa).  I have forked it so that I can modify & alter them for testing 
-for the MIAPA-ETL project (http://github.com/miapa/miapa-etl).  I'm also trimming out some of the non-XML 
-files for ease of navigation and syncing.
+The original supertreebase (http://github.com/rvosa/supertreebase) is (amongst other things) a dump of essentially all phylogenetic trees in TreeBASE (treebase.org) in NeXML and other formats, provided by Rutger Vos (http://github.com/rvosa).  I have forked it so that I can modify & alter them for testing for the MIAPA-ETL project (http://github.com/miapa/miapa-etl).  I'm also trimming out some of the non-XML files for ease of navigation and syncing.
 
-
- - IF YOU NEED PHYLOGENETIC DATA PLEASE DO NOT USE THESE FILES - 
-
+IF YOU NEED PHYLOGENETIC DATA PLEASE DO NOT USE THESE FILES.
 
 They may be modified to generate tricky, but valid, NeXML test cases and so should be used for coding only.
 
